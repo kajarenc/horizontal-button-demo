@@ -4,6 +4,8 @@ st.radio("Label1", ["Apple", "Banana"])
 
 st.radio("Label2", ["Female", "Male"], horizontal=True)
 
+st.radio("Horizontal radio buttons", ["These", "radios", "are", "horizontal!"], horizontal=True)
+
 
 discussion_example = {
     5: "Home",
